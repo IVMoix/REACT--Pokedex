@@ -32,12 +32,7 @@ body {
 }
 
 .app main {
-  background-color: var(--bg-color);
   padding: 10px;
   height: 100%;
   overflow: auto;
-  border-style: solid;
-  border-image-slice: 1;
-  border-width: 5px 0;
-  border-image-source: var(--bg-border);
 }
